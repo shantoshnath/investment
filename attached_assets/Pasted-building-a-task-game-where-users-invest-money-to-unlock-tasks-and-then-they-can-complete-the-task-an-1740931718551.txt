@@ -1,0 +1,56 @@
+building a task game where users invest money to unlock tasks and then they can complete the task and earn money
+
+first page (home)
+if user is logged in he(user) will we a profile pic in circle on top left and three circle in top right with one deposit one withdrawal and one tasks
+then he will have a google search tab he can search any thing on google
+in next line he will see some apps link like telegram youtube facebook with there links
+and in next line he can see invite friend tab where he will have his own referral or invitation link and invitation code with a qr code and in next line they will see news and  weather as per there location after that they can scroll for more news 
+
+they will see a menu in bottom with home order team online me
+there home is home page order is all the task he can buy and complete or all the task he had bought and there status of the tasks with all commission and bonus which he can get from his refferals 
+
+team will be the team page where he can view all the players ranking and where he rank in the game who has the most refferals with deposits he will see total team balance, total team personal commission, total team deposit, total team withdraw, total valid downline, total downline register, total active member, total downline first deposit today, layer 1 total valid downline, layer 2 total valid downline, layer 3 total valid downline, total community bonus yesterday then he will see invite friends with invitation code, link, qrcode then he will see total team commission yesterday, layer 1 team commission yesterday, layer 2 team commission yesterday, layer 3 team commission yesterday and then tabs for every person in layer 1,2,3 these layers means there direct referral then there referrals referral and there next referrals
+
+online will be a live chat option where add https://www.tawk.to/ link i will provide
+
+and in me option you will add profile page where he will see a avatar on top with username email mobile no
+then level system is 
+level-system	Min-Balance Valid-Downline Daily-Review-Limit	Massive-Order-Rate	Community Bonus Rate
+
+Bronze		0		0		15			4%			0%
+
+Silver		500		5		25			8%			1%
+
+Gold		1,500		11		35			16%			2%
+
+Crystal		4,000		22		45			32%			3%
+
+Master		20,000		60		60			45%			5%
+
+
+then my reward point
+then team commission
+then community bonus
+then unlock upline bonus
+then invitation qrcode link and code
+then deposit option
+then withdrwal option
+then change login password
+and a logout option
+
+and there is a 3 line menu option in header when will click on that there are option
+username with avtar when we click we go to profile page
+then my wallet and balance
+then a deposit option 
+withdraw option
+order history option
+transaction history
+my reward point 
+
+then home team online about us donload app and contact us
+
+in deposit option integrate upay gateway i will give agent link 
+in withdraw option you have to fill the amount and withdraw address with the account password then it will send a request to admin panel i will login that admin panel 
+then order history of all the task completed 
+
+make the admin panel also where i can see how many users loged in today and yesterday how many users are registered how many deposit comed today and total where i can see how many wethdrawl request comed a tab to manage withdrwal request
